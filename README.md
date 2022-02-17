@@ -1,3 +1,5 @@
+⚠️ Consider using [xDrip+](https://github.com/NightscoutFoundation/xDrip) instead. ⚠️
+
 # Dexy
 
 Patch the [Dexcom One glucose monitoring app](https://play.google.com/store/apps/details?id=com.dexcom.dexcomone) to bypass device compatibility checks.
